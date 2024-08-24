@@ -1,10 +1,21 @@
-Greeting I’m kirbey
-- 👀 I’m interested in cybersecurity
-- *Audit
-- https://youtu.be/rgfBvSq_uVc?si=XnpxMi7hlWvMVqom
+Greeting I’m Kirbey Telcin
+-  I’m interested and excited in cybersecurity
+
   
-- Skills Summary 
- 
+- [Skills and Tool Summary ]
+ ## Skills
+[provide skills and associated project.]
+| Skill
+*Analyzing network structure and security [andhttps://youtu.be/WlOslEy3ztg?si=91d6mtDQWd9s-xaL]
+*Using Linux commands to manage file permission [https://youtu.be/LnKoncbQBsM?si=D4Ibr8drTaX0crJK]
+*Applying filter to SQL queries[https://youtu.be/qFUOLkEk8AQ?si=h62_UNsykaJP4A-1
+*sIdentifying  vulnerability for a small Busines[https://youtu.be/eyVy1gKCuAU?si=J5M6MyfILX0F3i1q]
+*Documenting incident with an incident handling journal[https://youtu.be/qGktAVJpTGE?si=sRJJ1SDC8olUFMKs]
+*Importanting and parsing a text file security-related scenario[https://youtu.be/TKuqgGmdGUk?si=uzSvYyb1TP12Umgz]
+*Audit[https://youtu.be/rgfBvSq_uVc?si=XnpxMi7hlWvMVqom]
+
+
+
 §  Cleaning up maintain
 §  Speak English , craiyor
 §  Strong ethic
@@ -13,12 +24,12 @@ Greeting I’m kirbey
  
 §  I’m great listener
 §  Easy to train
-§  
+
  
  
-Professional Experience
+[Professional Experience]
  
-INSTALLER RAIL
+*INSTALLER RAIL
 §  Measure stairwell, measure concrete top and bottom
 §  Drilling into concrete ,ensure metal rail on the concrete
 §  Marked spot ,drill a hole
@@ -30,7 +41,7 @@ INSTALLER RAIL
 §  Stand and walk for up to 10 hours
 §  Ability to lift and carry up to 40 pound
  
-Employment History
+*Employment History
  
 Coastal metal – Delray Beach, Florida
 installer, 2017 to 2019
@@ -45,11 +56,11 @@ High School GED – Pembroke pine, Florida
  
 Forklift license  – Fort Lauderdale, Florida
 Operated , 2022
-- 📫 How to reach me ...
+- 📫 How to reach me ...supremekirbey/xcentryxtk@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-supremekirbey/supremekirbey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
