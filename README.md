@@ -56,9 +56,7 @@ High School GED – Pembroke pine, Florida
  
 Forklift license  – Fort Lauderdale, Florida
 Operated , 2022
-- 📫 How to reach me ...supremekirbey/xcentryxtk@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me ...supremekirbey/xcentryxtk@gmai.com
 
 
 ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
